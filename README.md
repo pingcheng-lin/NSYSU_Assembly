@@ -1,1 +1,1 @@
-# Assignments for Assembly course
+Assignments for Assembly course
